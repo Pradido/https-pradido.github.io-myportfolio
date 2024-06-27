@@ -133,7 +133,33 @@ span{
 }
 
 .services{
+    background-color: rgb(173, 107, 26);
+    width: 100%;
+}
+
+.serve{
+    color: rgb(249, 240, 252);
+}
+
+.span2{
+    color: rgb(249, 240, 252);
+}
+
+.ass2{
+    
     display: flex;
+    justify-content: space-evenly;
+    margin: 130px;
+}
+
+.baddo{
+    width: 50%;
+}
+
+.hello2{
+    font-size: 22px;
+    color: rgb(223, 250, 255);
+    width: 50%;
 }
 
 .footer-icons{
