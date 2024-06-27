@@ -157,8 +157,8 @@ span{
 }
 
 .hello2{
-    font-size: 22px;
-    color: rgb(240, 245, 245);
+    font-size: 20px;
+    color: rgb(20, 19, 19);
     width: 50%;
 }
 
@@ -166,6 +166,6 @@ span{
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    background-color: rgb(172, 111, 20);
+    background-color: rgb(211, 135, 42);
     padding: 15px;
 }
