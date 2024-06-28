@@ -173,6 +173,7 @@ span{
 text-align: center;
 color: goldenrod;
 background-color: rgba(167, 63, 63, 0.856);
+border-radius: 20%;
 }
 .s3{
     color: gold
@@ -183,8 +184,9 @@ background-color: rgba(167, 63, 63, 0.856);
 }
 
 .form{
-    background-color: rgba(105, 86, 156, 0.74);
+    background-color: rgba(41, 111, 151, 0.836);
     text-align: center;
+    border-radius: 20%;
 }
 .footer-icons{
     display: flex;
